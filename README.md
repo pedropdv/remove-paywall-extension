@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon128.png" alt="Remove Paywall Logo" width="150"/>
+  <img src="images/icon128.png" alt="Remove Paywall Logo" width="128"/>
 </p>
 
 <h1 align="center">Remove Paywall Chrome Extension</h1>
