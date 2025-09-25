@@ -4,9 +4,9 @@
   "version": "1.0",
   "description": "Redirects current page to https://removepaywall.com",
   "author": "Pedro de Vasconcellos",
-  "homepage_url": "https://github.com/pedropdv",
+  "homepage_url": "https://github.com/pedropdv/remove-paywall-extension",
   "permissions": [
-    "tabs"
+    "activeTab"
   ],
   "action": {
     "default_title": "Remover Paywall",
